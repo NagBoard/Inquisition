@@ -1,0 +1,264 @@
+{
+  "main": {
+    "id": "556b5097f50edcd0",
+    "type": "split",
+    "children": [
+      {
+        "id": "a337971c1acf03ba",
+        "type": "split",
+        "children": [
+          {
+            "id": "1929b5db1ea42a90",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "02f57cd93967e8bd",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Происшествие в Альква Лонде/География/Брекилианский лес.md",
+                    "mode": "preview",
+                    "backlinks": true,
+                    "source": true
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "4c446ad3ccd61b4a",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "e19c3c452c7ef04a",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "file": "Происшествие в Альква Лонде/География/Брекилианский лес.md",
+                    "options": {
+                      "collapse-filter": false,
+                      "search": "",
+                      "localJumps": 2,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": false,
+                      "showTags": false,
+                      "showAttachments": false,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": true,
+                      "colorGroups": [],
+                      "collapse-display": false,
+                      "showArrow": false,
+                      "textFadeMultiplier": 0.5,
+                      "nodeSizeMultiplier": 2.9328125,
+                      "lineSizeMultiplier": 1.83541666666667,
+                      "collapse-forces": false,
+                      "centerStrength": 0.223958333333333,
+                      "repelStrength": 18.2291666666667,
+                      "linkStrength": 0.755208333333333,
+                      "linkDistance": 500,
+                      "scale": 0.08317427835927664,
+                      "close": true
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4ab3df9a7677b52e",
+    "type": "split",
+    "children": [
+      {
+        "id": "3faec5c852d944ca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "141d0b74fffa5c81",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5536844ac63cac47",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:1quest",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "17fe51668be17eba",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 405.5
+  },
+  "right": {
+    "id": "0727854558ca8d02",
+    "type": "split",
+    "children": [
+      {
+        "id": "9e501e1649efe260",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "21c2ff246a89c144",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Происшествие в Альква Лонде/География/Брекилианский лес.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "3223c9390ef87eae",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "639a2a48ddb9d047",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Происшествие в Альква Лонде/География/Брекилианский лес.md"
+              }
+            }
+          },
+          {
+            "id": "04ecf7e63610f3c8",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "dc087d54d521724b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8ba2a4ae9827643b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Происшествие в Альква Лонде/География/Брекилианский лес.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false,
+      "random-note:Open random note": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "02f57cd93967e8bd",
+  "lastOpenFiles": [
+    "Происшествие в Альква Лонде/Локации/Альква Лонде.md",
+    "Происшествие в Альква Лонде/Персонажи/Конан ап Родри.md",
+    "Происшествие в Альква Лонде/Персонажи/Бейдгар ап Адольгар.md",
+    "Происшествие в Альква Лонде/Персонажи/Гвальхвин ап Гвинблейд.md",
+    "Происшествие в Альква Лонде/Персонажи/Гвеннанта верх Алан.md",
+    "Происшествие в Альква Лонде/Локации/Нимбар.md",
+    "Происшествие в Альква Лонде/Stratas/Брекилиан.md",
+    "Происшествие в Альква Лонде/Stratas/Посольство Эльфов.md",
+    "Происшествие в Альква Лонде/География/Логрис.md",
+    "Происшествие в Альква Лонде/География/Брекилианский лес.md",
+    "Происшествие в Альква Лонде/География/Малый Логрис.md",
+    "Происшествие в Альква Лонде/Персонажи/Персонажи игроков/Дагоррос из дома птичьей рощи.md",
+    "Происшествие в Альква Лонде/Персонажи/Персонажи игроков/Календир.md",
+    "Происшествие в Альква Лонде/Персонажи/Персонажи игроков/Конор.md",
+    "Происшествие в Альква Лонде/Персонажи/Персонажи игроков/Тинувеллон.md",
+    "Происшествие в Альква Лонде/Персонажи/Персонажи игроков/Марх ап Конвин.md",
+    "Происшествие в Альква Лонде/Персонажи/Жена Родри ап Конвина.md",
+    "Происшествие в Альква Лонде/Персонажи/Караллуин из Дома Цветущей Поляны.md",
+    "Происшествие в Альква Лонде/Персонажи/Княгиня Эйрлиса.md",
+    "Происшествие в Альква Лонде/Персонажи/Конвин ап Конлас.md",
+    "Происшествие в Альква Лонде/Персонажи/Конлас ап Бран.md",
+    "Происшествие в Альква Лонде/Персонажи/Лаэриэль.md",
+    "Происшествие в Альква Лонде/Персонажи/Нерданель.md",
+    "Происшествие в Альква Лонде/Персонажи/Ривал ап Бойдик.md",
+    "Происшествие в Альква Лонде/Персонажи/Родри ап Конвин.md",
+    "Происшествие в Альква Лонде/Персонажи/Халлон ап Майрон.md",
+    "Файлы/Бейдгар ап Адольгар.png",
+    "Файлы/Элинеда Верх Саэта.png",
+    "Файлы/Хивел ап Бойдик.png",
+    "Файлы/Халлон ап Майрон.png",
+    "Файлы/Родри ап Конвин.png",
+    "Файлы/Ривал ап Бойдик.png",
+    "Файлы/Марх ап Конвин.jpg",
+    "Файлы/Конвин ап Конлас.png",
+    "Файлы/Конан ап Родри.webp",
+    "Файлы/Княгиня Эйрлиса.png",
+    "Файлы",
+    "Files",
+    "New folder",
+    "Происшествие в Альква Лонде/Персонажи/Персонажи игроков",
+    "Происшествие в Альква Лонде/Персонажи",
+    "Происшествие в Альква Лонде/Локации",
+    "Происшествие в Альква Лонде/География",
+    "Происшествие в Альква Лонде/Stratas",
+    "Происшествие в Альква Лонде",
+    "Персонажи/Персонажи игроков",
+    "A ZettelBase/TTPRG/One-Shots and Mini-Stories/Cyberpunk — Зона комфорта/Зона комфорта — Canvas.canvas"
+  ]
+}

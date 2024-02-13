@@ -1,0 +1,27 @@
+{
+  "livePreview": false,
+  "alwaysUpdateLinks": true,
+  "promptDelete": false,
+  "attachmentFolderPath": "Файлы",
+  "spellcheckLanguages": null,
+  "spellcheck": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "/",
+  "defaultViewMode": "preview",
+  "autoConvertHtml": true,
+  "mobilePullAction": "switcher:open",
+  "mobileToolbarCommands": [
+    "editor:configure-toolbar",
+    "obsidian-linter:lint-file",
+    "editor:insert-wikilink",
+    "daily-notes",
+    "random-note",
+    "editor:insert-callout",
+    "app:go-back",
+    "app:go-forward",
+    "editor:attach-file",
+    "editor:undo",
+    "editor:redo",
+    "sync:view-version-history"
+  ]
+}

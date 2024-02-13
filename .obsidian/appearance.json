@@ -1,0 +1,11 @@
+{
+  "cssTheme": "Minimal",
+  "baseFontSize": 15,
+  "accentColor": "#6f8b46",
+  "enabledCssSnippets": [
+    "Snippet",
+    "Callouts",
+    "Preview mode",
+    "Editing mode"
+  ]
+}

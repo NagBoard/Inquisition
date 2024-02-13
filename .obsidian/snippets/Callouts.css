@@ -1,0 +1,43 @@
+/* Callouts */
+
+.callout[data-callout="danger"], .callout[data-callout="error"], .callout[data-callout="problem"] {
+    --callout-color: var(--callout-error);
+    --callout-icon: lucide-zap;
+}
+
+.callout[data-callout="success"], .callout[data-callout="check"], .callout[data-callout="done"], .callout[data-callout="upd"], .callout[data-callout="merge"]{
+    --callout-color: var(--callout-success);
+    --callout-icon: lucide-check;
+}
+
+.callout[data-callout="daily"] {
+    --callout-color: 111, 139, 70;
+    --callout-icon: lucide-book-marked;
+}
+
+.callout[data-callout="comment"] {
+    --callout-color: var(--callout-quote);
+    --callout-icon: lucide-message-square;
+}
+
+.callout[data-callout="warning"], .callout[data-callout="caution"], .callout[data-callout="attention"], .callout[data-callout="empty"], .callout[data-callout="empty-node"]{
+    --callout-color: var(--callout-warning);
+    --callout-icon: lucide-alert-triangle;
+}
+
+.callout[data-callout="example2"] {
+    --callout-color: 41, 99, 75;
+    --callout-icon: lucide-list;
+}
+
+/* Highlight color in reader mode and in view mode */
+
+.markdown-rendered mark {
+    background-color: #4F3546;
+    color: #c2c2c2;
+}
+
+.cm-s-obsidian span.cm-formatting-highlight, .cm-s-obsidian span.cm-highlight {
+    background-color: #3F2F39;
+    color: #c2c2c2;
+}

@@ -1,0 +1,51 @@
+{
+  "collapse-filter": false,
+  "search": "-path:\"Files/Музыкальный сундук\" -path:\"Files/Видеоархив и Фотоархив\" -file:\"Zettel Calendar\"",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:\"A ZettelBase/TTPRG/Campaigns\"",
+      "color": {
+        "a": 1,
+        "rgb": 11950092
+      }
+    },
+    {
+      "query": "path:\"A ZettelBase/TTPRG/One-Shots and Mini-Stories\"",
+      "color": {
+        "a": 1,
+        "rgb": 14958399
+      }
+    },
+    {
+      "query": "file:00",
+      "color": {
+        "a": 1,
+        "rgb": 7766312
+      }
+    },
+    {
+      "query": "path:Daily  ",
+      "color": {
+        "a": 1,
+        "rgb": 8785498
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": -1,
+  "nodeSizeMultiplier": 0.591399000713776,
+  "lineSizeMultiplier": 0.1,
+  "collapse-forces": false,
+  "centerStrength": 0.00606709493219129,
+  "repelStrength": 20,
+  "linkStrength": 0.354389721627409,
+  "linkDistance": 339,
+  "scale": 0.0078125,
+  "close": true
+}

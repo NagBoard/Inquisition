@@ -1,0 +1,6 @@
+/* Preview mode */
+
+.cm-s-obsidian .cm-line.HyperMD-header {
+    padding-top: var(--p-spacing);
+    padding-bottom: var(--p-spacing);
+  }

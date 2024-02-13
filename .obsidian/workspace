@@ -1,0 +1,177 @@
+{
+  "main": {
+    "id": "556b5097f50edcd0",
+    "type": "split",
+    "children": [
+      {
+        "id": "0f2b8a642b380c55",
+        "type": "leaf",
+        "dimension": 47.49733759318424,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Daily/2022-10-13.md",
+            "mode": "source",
+            "source": true
+          }
+        },
+        "group": "0194e41b51e30b7e"
+      },
+      {
+        "id": "5122f8b396d5d83e",
+        "type": "leaf",
+        "dimension": 52.50266240681576,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Daily/2022-10-13.md",
+            "mode": "preview",
+            "source": true
+          }
+        },
+        "group": "0194e41b51e30b7e"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4ab3df9a7677b52e",
+    "type": "split",
+    "children": [
+      {
+        "id": "3faec5c852d944ca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "141d0b74fffa5c81",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "5536844ac63cac47",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a0a3b85c35888ee0",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 392
+  },
+  "right": {
+    "id": "0727854558ca8d02",
+    "type": "split",
+    "children": [
+      {
+        "id": "9e501e1649efe260",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "21c2ff246a89c144",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Daily/2022-10-13.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8ba2a4ae9827643b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Daily/2022-10-13.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3223c9390ef87eae",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "639a2a48ddb9d047",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Daily/2022-10-13.md"
+              }
+            }
+          },
+          {
+            "id": "0a0bb06d811ea6ea",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "04ecf7e63610f3c8",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "0f2b8a642b380c55",
+  "lastOpenFiles": [
+    "Daily/2022-10-12.md",
+    "A ZettelBase/TTPRG/One-Shots and Mini-Stories/Последняя Надежда/Мини-История Последняя надежда, сессия 1.md",
+    "Firefly.md",
+    "A ZettelBase/00 Моя Атмосфера.md",
+    "A ZettelBase/TTPRG/One-Shots and Mini-Stories/Последняя Надежда/Подготовка/Inspiration.md",
+    "Процесс компиляции Java.md",
+    "00 Java.md",
+    "JDK.md",
+    "JRE.md",
+    "JVM — обывательский уровень понимания.md"
+  ]
+}
